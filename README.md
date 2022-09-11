@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @invok3
-- 👀 I’m interested in Mobile Development.
-- 🌱 I’m currently learning Game Development 
-- 💞️ I’m looking to Start my YouTube Channel, to help anyone interested in game development specially for mobile devices in Arabic language.
+- 📱 I’m an Accomplished Mobile Application Developer.
+- 🎮 I’m currently learning Game Development.
+- 📺 I’m looking to Start my YouTube Channel, to help fresh Arab fellows in game development specially for mobile devices.
 - 📫 How to reach me taash32@gmail.com
 
 <!---
